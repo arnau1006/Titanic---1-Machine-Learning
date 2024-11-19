@@ -12,3 +12,4 @@ Visualizaciones para descubrir patrones ocultos.
 Entrenamiento y comparación de algoritmos de clasificación.
 Evaluación del desempeño de los modelos con métricas como accuracy y precision.
 Este repositorio es una introducción perfecta al análisis de datos y machine learning, empaquetada en un contexto histórico fascinante. ¡Explora el código, las visualizaciones y los resultados, y súmate al desafío! 🚀
+![Titanic_ML_GitHub_Image](https://github.com/user-attachments/assets/b5d140e1-a95e-46b2-bf5d-d508794f4b08)
